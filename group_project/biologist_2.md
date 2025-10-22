@@ -26,3 +26,13 @@ Code successfully implemented? Yes or No
 Valeria
 
 
+Report #4
+Citation: https://pubmed.ncbi.nlm.nih.gov/32333624/
+Topic: Neuroscience, Assessing attentiveness and cognitive engagement across tasks using video-based action understanding in non-human primates
+What looks promising about the GitHub repository’s potential replication: Code on github seems fairly straighforward, all data and jupyter notebooks are there
+Code successfully implemented? Yes or No
+Valeria
+
+
+
+
