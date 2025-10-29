@@ -33,12 +33,14 @@ What looks promising about the GitHub repository’s potential replication: Code
 Code successfully implemented? Yes or No
 Valeria
 
+10/29/25
 Report #5 
 Citation: [https://pubmed.ncbi.nlm.nih.gov/32333624/](https://pubmed.ncbi.nlm.nih.gov/31838499/)
 Topic: Drug reaction, A survey on adverse drug reaction studies: data, tasks and machine learning methods
 What looks promising about the GitHub repository’s potential replication: Code is posted github and the readme has exact directions for how to download everything and the conda commands. Literally has cell by cell how to download and run everything
 Code successfully implemented? Yes or No 
 Valeria
+
 
 
 
