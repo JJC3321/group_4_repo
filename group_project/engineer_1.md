@@ -16,5 +16,12 @@ CAFA challenges. As a result, the pipeline is not fully automatized and
 manual input is necessary occasionally." Therefore, can't not be reproduced 
 due to not releasing the model. 
 
+# Dual-Transformer Cross-Attention Framework for Alzheimer’s disease detection via dPTE-Guided EEG channel selection and multi-modal integration
+
+Took too long for libraries to download.  
+
+
+
+
 
 
