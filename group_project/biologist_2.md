@@ -41,6 +41,12 @@ What looks promising about the GitHub repository’s potential replication: Code
 Code successfully implemented? Yes or No 
 Valeria
 
-
+11/10/25 (For asych class)
+Lab report #6
+Citation: https://pubmed.ncbi.nlm.nih.gov/38215493/ 
+Topic: Early prediction of dementia using fMRI data with a graph convolutional network approach
+What lookspromising and GitHub repository’s potential replication: It is very straightforward and just has one page of code. Looks very clear and understandable.
+Code successfully implemented? Yes or No 
+Valeria
 
 
