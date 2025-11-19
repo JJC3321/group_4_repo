@@ -1,4 +1,4 @@
-Proteins are essential to all biological functions and its structure 
+Proteins are essential to all biological functions!Its structure 
 provides a mechanistic understanding of the function. Previous techniques, 
 such as cryo-electron microscopy, require extensive time and equipment to 
 determine single protein structures. So far, the structure of 100,000 
