@@ -1,13 +1,13 @@
 Jian Jin Chen
 
 ## SpikeInterface, a unified framework for spike sorting 
-## Biologist 1 Paper 1
+Biologist 1 Paper 1
 
 This paper is about a tool for bioinformatics research, not biology research. 
 
 
 ## An expanded evaluation of protein function prediction methods shows an improvement in accuracy  
-## Biologist 1 Paper 2
+Biologist 1 Paper 2
 
 As stated in the repo, "Due to CAFA rules, the organizers of CAFA cannot release the submitted
 predictions from participants. Therefore, it is technically not possible to
@@ -19,9 +19,10 @@ manual input is necessary occasionally." Therefore, can't not be reproduced
 due to not releasing the model. 
 
 ## Dual-Transformer Cross-Attention Framework for Alzheimer’s disease detection via dPTE-Guided EEG channel selection and multi-modal integration 
-## Biologist 2 Paper 1
+Biologist 2 Paper 1
 
 Took too long for libraries to download.  
+
 
 
 
