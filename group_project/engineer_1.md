@@ -21,7 +21,8 @@ due to not releasing the model.
 ## Dual-Transformer Cross-Attention Framework for Alzheimer’s disease detection via dPTE-Guided EEG channel selection and multi-modal integration 
 **Biologist 2 Paper 1**
 
-Took too long for libraries to download, and there are many decrepit libraries. 
+Took too long (more than 2 hours) for libraries to download, and there are many decrepit libraries. 
+
 
 
 
