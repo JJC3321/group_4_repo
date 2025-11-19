@@ -16,4 +16,8 @@ Paper 5 - From Bioilogist 2
 First download for conda packages failed due to incompatible version of conda and python.
 Updated python and conda to compatible version, retried downloading packages. Found a second error - packages too large and not enough disk space. Cleared cache and reattempted download on storm.
 
+Ran the code on Storm account and was able to download dataset and models from the git hub link. Ran a test model on the dataset and downloaded results and uploaded them to group_4_repo as MF_results01.txt, which include the results from the model testing. 
+
+However, paper results included machine learning analysis from outside datasets and papers and the overall results are a meta analysis of different adverse drug machine learning techniques. As a result, these paper's "results" are not replicable from just the data and modules provided in the github link. I require more information from biologists on what exactly the results of paper are and comparison between paper and text results.
+
 
