@@ -48,9 +48,17 @@ Valeria Notes
 * Lab report #6
     * Citation: https://pubmed.ncbi.nlm.nih.gov/38215493/
     * Topic: Early prediction of dementia using fMRI data with a graph convolutional network approach
-    * What lookspromising and GitHub repository’s potential replication: It is very straightforward and just has one page of code. Looks very clear and understandable.
+    * What looks promising and GitHub repository’s potential replication: It is very straightforward and just has one page of code. Looks very clear and understandable.
     * Code successfully implemented? 
         * Yes or No 
 * Valeria
 
+11/19/25
+* Lab report #7
+    * Citation: https://pubmed.ncbi.nlm.nih.gov/36741395/
+    * Topic: Immune system and immune memory repertoire
+    * What looks promising and GitHub repository’s potential replication: Code for the models described in the paper "Counting is Almost All You Need"  is available on github. The repeository contains code for the counting model, attTCR, and gTCR, as well as preprocessing code for the Emerson dataset, and the dataset that was used in the paper, after preprocessing.
+    * Code successfully implemented? 
+        * Yes or No 
+* Valeria
 
