@@ -22,3 +22,15 @@ https://github.com/bactopia/bactopia/
 
 Contains the raw sequences and links to all the software used in the study as well as a step by step 
 guide on GitHub
+
+Paper 4: Generalized leaky integrate-and-fire models classify multiple 
+neuron types
+
+Data can be found: http://celltypes.brain-map.org
+Analysis code: https://github.com/AllenInstitute/GLIF_Teeter_et_al_2018
+Code for creation of the pink noise stimulus: 
+https://github.com/AllenInstitute/ephys_pink_noise
+
+Paper seems promising as the data is easily accessible and the github 
+provides text files of source code and step by step instructions on which 
+codes to run in which order. 
