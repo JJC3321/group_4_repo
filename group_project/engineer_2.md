@@ -1,6 +1,6 @@
 Isabella Pelosi
 
-I attempted downloading Paper 3 from Biologist 1 
+Paper 3 from Biologist 1 
 https://pmc.ncbi.nlm.nih.gov/articles/PMC7406220/ Bacteropia
 I was able to download mamba version needed but when downloading bactopia there was a lot of lagging and test finishing kept hanging
 Next steps after downloading would be to attempt running the codes listed in the github
@@ -11,4 +11,9 @@ Other Notes 10/29: Bacteropia is a model / tool not an actual research project. 
 
 Paper 3 - From Biologist 2
 Paper 3 could not be downloaded due to the fact there was no github link listed within the paper to be able to download.
+
+Paper 5 - From Bioilogist 2
+First download for conda packages failed due to incompatible version of conda and python.
+Updated python and conda to compatible version, retried downloading packages. Found a second error - packages too large and not enough disk space. Cleared cache and reattempted download on storm.
+
 
