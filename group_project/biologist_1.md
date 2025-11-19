@@ -38,3 +38,10 @@ neurimaging, genetics, clinical, and demogrpahic data. Their github
 provides the complete Predictive Big Data Analytics protocol to obtain 
 vector of neuroimaging biomarkers na d R-script for machine learning 
 diagnostic classification. 
+
+Paper 6: Proteome atlas for mechanistic discovery and risk prediction of 
+diabetic retinopathy 
+Paper: https://www.nature.com/articles/s41467-025-64634-1#Sec29
+Data: 
+https://static-content.springer.com/esm/art%3A10.1038%2Fs41467-025-64634-1/MediaObjects/41467_2025_64634_MOESM4_ESM.xlsx
+Code: https://github.com/zocskl/DRPro
