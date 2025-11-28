@@ -21,13 +21,17 @@ due to not releasing the model.
 ## Dual-Transformer Cross-Attention Framework for Alzheimer’s disease detection via dPTE-Guided EEG channel selection and multi-modal integration 
 **Biologist 2 Paper 1**
 
-Took too long (more than 2 hours) for libraries to download, and there are many decrepit libraries.
+Took too long (more than 2 hours) for libraries to download, and there are many decrepit libraries such as 
 
 ## Attentive neural cell instance segmentation
 **Biologist 2 Paper 2** 
 
-The github repo does not contain the data. I use Gemini to find it but after finding the dataset; the dataset need cleaning and in my opinion very
-tedious as each image is in there own folder and there 607 of them. 
+The github repo does not contain the data. I use Gemini to find it but after finding the dataset; the dataset need cleaning and in my opinion very tedious as each image is in there own folder and there 607 of them. 
+
+## Generalized leaky integrate-and-fire models classify multiple neuron types
+**Biologist 1 Paper 4 **
+
+The code uses python 2 and python 2 version of libaries like numpy, pandas and allensdk which are no longer supported. 
 
 
 
