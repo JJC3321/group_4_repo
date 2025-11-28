@@ -36,12 +36,12 @@ The code uses python 2 and python 2 version of libaries like numpy, pandas and a
 ## Predictive Big Analytics: A study of Parkinson's Disease Using Large, Complex, Heterogenous, Incongruent, Multi-Source and Incomplete Observations
 **Biologist 1 Paper 5**
 
-The programming language use for this experiment is R.
+The programming language use for this experiment is R. 
 
 ## Proteome atlas for mechanistic discovery and risk prediction of diabetic retinopathy
 **Biologist 1 Paper 6**
 
-The programming language use for this experiment is R.
+The programming language use for this experiment is R. Also dataset such as UK Biobank and Guangzhou Diabetic Eye Study are not available.
 
 
 
