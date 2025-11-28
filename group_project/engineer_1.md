@@ -26,7 +26,7 @@ Took too long (more than 2 hours) for libraries to download, and there are many 
 ## Attentive neural cell instance segmentation
 **Biologist 2 Paper 2** 
 
-The github repo does not contain the data. I use Gemini to find it but after finding the dataset; the dataset need cleaning and in my opinion very tedious as each image is in there own folder and there 607 of them. 
+The GitHub repo does not contain the data. I use Gemini to find it, but after locating the dataset, it needs cleaning, and in my opinion, this process is very tedious, as each image is in its own folder, and there are 607 of them. 
 
 ## Generalized leaky integrate-and-fire models classify multiple neuron types
 **Biologist 1 Paper 4**
@@ -36,12 +36,13 @@ The code uses Python 2 and the Python 2 version of the library allensdk, which a
 ## Predictive Big Analytics: A study of Parkinson's Disease Using Large, Complex, Heterogenous, Incongruent, Multi-Source and Incomplete Observations
 **Biologist 1 Paper 5**
 
-The programming language use for this experiment is R.
+The programming language used for this experiment is R.
 
 ## Proteome atlas for mechanistic discovery and risk prediction of diabetic retinopathy
 **Biologist 1 Paper 6**
 
-The programming language use for this experiment is R.
+The programming language used for this experiment is R.
+
 
 
 
