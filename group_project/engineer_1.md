@@ -31,7 +31,7 @@ The github repo does not contain the data. I use Gemini to find it but after fin
 ## Generalized leaky integrate-and-fire models classify multiple neuron types
 **Biologist 1 Paper 4**
 
-The code uses python 2 and python 2 version of libaries like numpy, pandas and allensdk which are no longer supported. 
+The code uses Python 2 and the Python 2 version of the library allensdk, which are no longer supported.
 
 ## Predictive Big Analytics: A study of Parkinson's Disease Using Large, Complex, Heterogenous, Incongruent, Multi-Source and Incomplete Observations
 **Biologist 1 Paper 5**
@@ -42,6 +42,7 @@ The programming language use for this experiment is R.
 **Biologist 1 Paper 6**
 
 The programming language use for this experiment is R.
+
 
 
 
