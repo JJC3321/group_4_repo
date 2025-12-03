@@ -1,110 +1,92 @@
-Isabella Pelosi — Engineer 2 Notes
-Paper 3 — From Biologist 1
+# Isabella Pelosi — Engineer 2 Notes
 
-Link: https://pmc.ncbi.nlm.nih.gov/articles/PMC7406220/
- (Bacteropia)
+---
 
-Notes
+## Paper 3 — From Biologist 1  
+**Link:** https://pmc.ncbi.nlm.nih.gov/articles/PMC7406220/ (Bacteropia)
 
-Day 1:
+### Notes
+- **Day 1:**  
+  - Installed required mamba version.  
+  - Significant lag when downloading Bactopia; test finishing kept hanging.  
+  - Next steps would be to attempt running the GitHub-listed code.
 
-Installed required mamba version.
+- **Day 2:**  
+  - Issue with `libmamba` vs other mamba versions.  
+  - Planning to attempt installation using Docker or Singularity.  
+  - macOS system likely increases run time.
 
-Significant lag when downloading Bactopia; test finishing kept hanging.
+### Additional Notes (10/29)
+- Bacteropia is a *tool/model*, not a research project.  
+- The referenced paper cannot be used/applied for this project.
 
-Next steps would be to attempt running the GitHub-listed code.
+### Outcome
+- **Works?** No  
+- **Contributor:** Isabella Pelosi
 
-Day 2:
+---
 
-Issue with libmamba vs other mamba versions.
+## Paper 3 — From Biologist 2
 
-Planning to attempt installation using Docker or Singularity.
+### Notes
+- Unable to download paper materials because the Github link was missing from the paper.
 
-macOS system likely increases run time.
+### Outcome
+- **Works?** No  
+- **Contributor:** Isabella Pelosi
 
-Additional Notes (10/29)
+---
 
-Bacteropia is a tool/model, not a research project.
+## Paper 5 — From Biologist 2
+https://pubmed.ncbi.nlm.nih.gov/31838499/
+### Notes
+- Initial conda package download failed due to incompatible Python/conda versions.  
+- Updated Python + conda; second failure due to large package size and insufficient disk space.  
+- Cleared cache and retried on Storm account.
+- Successfully downloaded dataset and models from GitHub.  
+- Ran a test model and uploaded results to `group_4_repo` as **MF_results01.txt**.  
+- Paper results include machine-learning analysis from external datasets and act as a meta-analysis.  
+- Not fully reproducible from provided GitHub data alone—needed clarification from biologists.  
+- After further inquiry and additional model runs, results were reproducible.
 
-The referenced paper cannot be used/applied for this project.
+### Outcome
+- **Works?** Yes  
+- **Contributor:** Isabella Pelosi
 
-Outcome
+---
 
-Works? No
+## Paper 4 — From Biologist 2
 
-Contributor: Isabella Pelosi
+### Notes
+- GitHub code only supports running analyses on *new* data.  
+- No access to original data used in the paper, so paper results cannot be reproduced.
 
-Paper 3 — From Biologist 2
-Notes
+### Outcome
+- **Works?** No  
+- **Contributor:** Isabella Pelosi
 
-Unable to download paper materials because the Github link was missing from the paper.
+---
 
-Outcome
+## Paper 6 — From Biologist 2  
+**Link:** https://pubmed.ncbi.nlm.nih.gov/38215493/
 
-Works? No
+### Notes
+- Code was difficult to implement.  
+- Attempted to download the dataset, but it did not contain all features described in the paper.  
+- Required unavailable libraries; run time extremely long.
 
-Contributor: Isabella Pelosi
+---
 
-Paper 5 — From Biologist 2
-Notes
+## Paper 7 — From Biologist 2  
+**Link:** https://pubmed.ncbi.nlm.nih.gov/36741395/
 
-Initial conda package download failed due to incompatible Python/conda versions.
+### Notes
+- Able to download from GitHub and begin implementation.  
+- Extremely long run time; conda libraries began hanging.  
+- macOS compatibility contributed to issues.  
+- Since a paper had already been reproduced, moved on.
 
-Updated Python + conda; second failure due to large package size and insufficient disk space.
+  ### Outcome
+- **Works?** Maybe - runtime is extremely long 
+- **Contributor:** Isabella Pelosi
 
-Cleared cache and retried on Storm account.
-
-Successfully downloaded dataset and models from GitHub.
-
-Ran a test model and uploaded results to group_4_repo as MF_results01.txt.
-
-Paper results include machine-learning analysis from external datasets and act as a meta-analysis.
-
-Not fully reproducible from provided GitHub data alone—needed clarification from biologists.
-
-After further inquiry and additional model runs, results were reproducible.
-
-Outcome
-
-Works? Yes
-
-Contributor: Isabella Pelosi
-
-Paper 4 — From Biologist 2
-Notes
-
-GitHub code only supports running analyses on new data.
-
-No access to original data used in the paper, so paper results cannot be reproduced.
-
-Outcome
-
-Works? No
-
-Contributor: Isabella Pelosi
-
-Paper 6 — From Biologist 2
-
-Link: https://pubmed.ncbi.nlm.nih.gov/38215493/
-
-Notes
-
-Code was difficult to implement.
-
-Attempted to download the dataset, but it did not contain all features described in the paper.
-
-Required unavailable libraries; run time extremely long.
-
-Paper 7 — From Biologist 2
-
-Link: https://pubmed.ncbi.nlm.nih.gov/36741395/
-
-Notes
-
-Able to download from GitHub and begin implementation.
-
-Extremely long run time; conda libraries began hanging.
-
-macOS compatibility contributed to issues.
-
-Since a paper had already been reproduced, moved on.
